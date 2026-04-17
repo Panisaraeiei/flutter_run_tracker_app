@@ -109,7 +109,7 @@ class _UpdateDeleteRunUiState extends State<UpdateDeleteRunUi> {
   Widget build(BuildContext context) {
     return Scaffold(
       // 1. ปรับสีพื้นหลังของหน้าจอเป็นสีเทาเข้ม
-      backgroundColor: const Color.fromARGB(255, 84, 86, 87),
+      backgroundColor: const Color.fromARGB(255, 141, 141, 143),
       appBar: AppBar(
         // ปรับสี App Bar ให้เข้ากับพื้นหลังใหม่
         backgroundColor: const Color.fromARGB(255, 40, 40, 40),
